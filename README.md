@@ -66,15 +66,6 @@ Data Structures & Algorithms | OOP | Machine Learning
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malleshwari-b577&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malleshwari-b577&theme=tokyonight" />
-</p>
-
----
-
 ## 🌍 Connect
 
 GitHub - https://github.com/malleshwari-b577  
