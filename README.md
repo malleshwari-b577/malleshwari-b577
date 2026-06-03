@@ -2,7 +2,7 @@
 <h3 align="center">CSE (AI & ML) Student | Building Data-Driven Solutions with Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Explorer;DSA+Learner;AI+%26+NLP+Enthusiast;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Explorer;AI+%26+NLP+Enthusiast" />
 </p>
 
 <p align="center">
