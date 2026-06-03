@@ -16,8 +16,7 @@
 🎓 B.Tech CSE (AI & ML), CBIT  
 📊 CGPA: 9.73  
 💡 Passionate about **Machine Learning & Problem-Solving**  
-⚡ Building real-world AI applications using ML & NLP  
-📚 Practicing Data Structures & Algorithms regularly  
+⚡ Building real-world AI applications using ML & NLP    
 🎯 Goal: To build intelligent systems that solve real-world problems  
 
 ---
